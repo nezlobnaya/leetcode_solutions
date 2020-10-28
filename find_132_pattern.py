@@ -5,7 +5,7 @@ class Solution:
        # 1 #left smallest
        # 3 # mid is the largest value
        # 2 #right is 2nd largest
-       #132 pattern
+       # 132 pattern
         
         rightNumber = float('-inf')
         stack = []
