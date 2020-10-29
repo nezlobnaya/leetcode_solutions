@@ -8,20 +8,22 @@ Each range [a,b] in the list should be output as:
     "a->b" if a != b
     "a" if a == b
 """
-class Solution:
-    def summaryRanges(self, nums: List[int]) -> List[str]:
-        result, start = [], 0
-        if len(nums) == 0: return result
-        if len(nums) == 1: return [str(nums[0])]
+
+def summaryRanges(nums):
+    result, start = [], 0
+    if len(nums) == 0: return result
+    if len(nums) == 1: return [str(nums[0])]
         
-        for i in range(len(nums)):
-            if i + 1 < len(nums) and nums[i] + 1 == nums[i+1]:
-                continue
-            if start == i:
-                result.append(str(nums[start]))
-            else:
-                result.append(str(nums[start]) + '->' + str(nums[i]))
-            start = i+1
-        return result
-        
-        
+    for i in range(len(nums)):
+        if i + 1 < len(nums) and nums[i] + 1 == nums[i+1]:
+            continue
+        if start == i:
+            result.append(str(nums[start]))
+        else:
+            result.append(str(nums[start]) + '->' + str(nums[i]))
+        start = i+1
+    return result
+
+nums = [0,1,2,4,5,7]        
+print(summaryRanges(nums))        
+# Output: ['0->2', '4->5', '7']
