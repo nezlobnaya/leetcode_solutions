@@ -16,6 +16,6 @@ Output: false
 """
 
 class Solution:
-    def isPalindrome(self, s: str) -> bool:
-        c = ''.join(x.lower() for x in s if x.isalnum())
+    def isPalindrome(self, s: str) -> bool: #The join() method is a string method and returns a string in which the elements of sequence have been joined by str separator.
+        c = ''.join(x.lower() for x in s if x.isalnum()) #The isalnum() method returns True if all characters in the string are alphanumeric (either alphabets or numbers). If not, it returns False.
         return c == c[::-1]

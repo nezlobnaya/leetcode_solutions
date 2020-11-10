@@ -24,7 +24,7 @@ class Solution:
         queue = Queue()
         queue.put((root, 1))
         while True:
-            node, depth  = queue.get()
+            node, depth  = queue.get() #The get() method returns the value for the specified key if key is in dictionary.
             if not node.left and not node.right:
                 return depth
             if node.right:
