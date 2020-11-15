@@ -14,6 +14,8 @@ class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
+    def __str__(self):
+      return str(self.val) + "->" + str(self.next)
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         carry_over = 0
@@ -28,5 +30,33 @@ class Solution:
             p.next = ListNode(carry_over%10)
             carry_over //= 10
             p = p.next
-        return newLL.next
-       
+        return (f"Result: {newLL.next}")
+
+l1_1 = ListNode(2)
+l1_2 = ListNode(4)
+l1_3 = ListNode(3)
+
+l1_1.next = l1_2
+l1_2.next = l1_3
+
+print((f"List1: {l1_1}"))
+
+
+l2_1 = ListNode(5)
+l2_2 = ListNode(6)
+l2_3 = ListNode(4)
+
+l2_1.next = l2_2
+l2_2.next = l2_3
+
+print((f"List2: {l2_1}"))
+
+
+s = Solution()
+
+print(s.addTwoNumbers(l1_1,l2_1))
+
+
+
+# Output: 7 -> 0 -> 8
+# Explanation: 342 + 465 = 807.       
