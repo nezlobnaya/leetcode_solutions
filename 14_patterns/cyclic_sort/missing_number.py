@@ -4,10 +4,10 @@ Given an array nums containing n distinct numbers in the range [0, n], return th
 Follow up: Could you implement a solution using only O(1) extra space complexity and O(n) runtime complexity?
 """
 
-class Solution:
-    def missingNumber(self, nums: List[int]) -> int:
-        original_sum = sum([i for i in range(len(nums)+1)])
-        return original_sum - sum(nums)
+# class Solution:
+#     def missingNumber(self, nums: List[int]) -> int:
+#         original_sum = sum([i for i in range(len(nums)+1)])
+#         return original_sum - sum(nums)
 
 class Solution:
     def missingNumber(self, nums):
@@ -25,3 +25,9 @@ class Solution:
             expected_num = nums[i-1] + 1
             if nums[i] != expected_num:
                 return expected_num
+
+
+if __name__ == "__main__":
+    nums = [4,5,6,7,0,1,2]
+    
+    print(Solution().missingNumber(nums))
