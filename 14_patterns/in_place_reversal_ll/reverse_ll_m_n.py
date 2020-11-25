@@ -39,4 +39,4 @@ if __name__ == "__main__":
     l4.next = l5
     
     print((f"Linked List: {l1}"))
-    print((f"Reversed LL: {Solution().reverseBetween(l1,2,4)}"))
+    print((f"Reversed LL: {Solution().reverseBetween(l1,0,4)}"))
