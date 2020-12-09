@@ -44,5 +44,5 @@ traverse(root)
 
 print("Reversed Tree")
 
-ans = Solution().invertTree(root)
+Solution().invertTree(root)
 traverse(root)
