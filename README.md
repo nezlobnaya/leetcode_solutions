@@ -43,4 +43,7 @@ The single most important aspect of preparing for technical interviews is to sol
 |[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/add_two_numbers.py)
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/group_anagrams.py)
 |[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/in_place_reversal_ll/reverse_ll_m_n.py)
-
+|[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/cyclic_sort/find_smallest_positive.py)
+|[268. Missing Number](https://leetcode.com/problems/missing-number/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/cyclic_sort/missing_number.py)
+|[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/max_diff_node_and_ancestor.py)
+|[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/squares_of_a_sorted_array.py)
