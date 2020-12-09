@@ -39,3 +39,4 @@ The single most important aspect of preparing for technical interviews is to sol
 |[Invert a Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/invert_binary_tree.py)
 |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/search_in_rotated_sorted_array.py)
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/merge_intervals/merge_intervals.py)
+|[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/reverse_words_str.py)
