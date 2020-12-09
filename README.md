@@ -40,3 +40,7 @@ The single most important aspect of preparing for technical interviews is to sol
 |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/search_in_rotated_sorted_array.py)
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/merge_intervals/merge_intervals.py)
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/reverse_words_str.py)
+|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/add_two_numbers.py)
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/group_anagrams.py)
+|[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/in_place_reversal_ll/reverse_ll_m_n.py)
+
