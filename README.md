@@ -21,6 +21,16 @@ The single most important aspect of preparing for technical interviews is to sol
     - Stop. Even if you’re in the middle of something important like trying to understand the solution. Do not spend more than 30–35 minutes per question.
     - Record activity on your progress chart.
     - Revisit the question next week.
+    
+    ## Important notes
+    
+    - Don’t rush to the solution even if you think the problem statement is easy. Ask yourself important questions as if you’re asking your interviewer. Answer  these questions to yourself as if you’re the interviewer. Try to whisper these questions and answers. Don’t be afraid of talking to yourself. If you still can’t understand the problem statement after 5 minutes, continue trying to understand it for the remaining time (use up the remaining 20 minutes to understand the problem statement instead of worrying about solving it).
+
+    - Assuming you understood the problem statement, think deep and try to come up with a solution before the timer rings. If a brute force solution comes up right away, think about a more optimal solution. Do not look up the solution. This is the most critical step. Even if you absolutely get stuck and know 100% that there’s no way you can come up with the solution, still give yourself 20 minutes of undivided deep attention. Just ponder. Do whatever it takes to make your brain tick. If brute force is all you have, code that up.
+
+    - If you’re using Leetcode, look at the discussion page and view various highest rated solutions. If you weren’t able to come up with the solution at all, don’t worry. Try to understand the solution as much as possible. Code it up if you have time.
+
+    - Once you hit a total of 30–35 minutes on that problem, do not continue working on the problem — even if you’re in the middle of understanding the solution. Just stop.
 
 ## Implementation
 
