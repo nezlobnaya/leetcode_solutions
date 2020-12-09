@@ -52,7 +52,7 @@ The single most important aspect of preparing for technical interviews is to sol
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/sliding_window/maximum_subarray.py)
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/summary_ranges.py)
 |[896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/monotonic_array.py)
-|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/valid_palindrome.py)
+|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/valid_palindrome.py) [Solution2.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/fast_slow_pointers/palindrome_ll.py)
 |[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/fast_slow_pointers/linked_list_cycle_II.py)
 |[132 Pattern](https://leetcode.com/problems/132-pattern/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/find_132_pattern.py)
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/minimum_depth_binary_tree.py)
