@@ -56,3 +56,4 @@ The single most important aspect of preparing for technical interviews is to sol
 |[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/fast_slow_pointers/linked_list_cycle_II.py)
 |[132 Pattern](https://leetcode.com/problems/132-pattern/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/find_132_pattern.py)
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/minimum_depth_binary_tree.py)
+|[340. Longest substring with K distinct characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/sliding_window/longest_substring_with_k_unique_char.py)
