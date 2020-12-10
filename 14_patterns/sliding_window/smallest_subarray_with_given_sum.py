@@ -1,5 +1,4 @@
 def smallest_subarray_with_given_sum(s, arr):
-  # TODO: Write your code here
   min_length,window_sum, window_start =float('inf'),0,0
 
   for window_end in range(len(arr)):
@@ -10,7 +9,7 @@ def smallest_subarray_with_given_sum(s, arr):
       window_start+=1
 
 
-  return min_length
+  return 0 if min_length == float('inf') else min_length
 
 def main():
   print("Smallest subarray length: " + str(smallest_subarray_with_given_sum(7, [2, 1, 5, 2, 3, 2])))
