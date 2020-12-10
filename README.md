@@ -59,3 +59,4 @@ The single most important aspect of preparing for technical interviews is to sol
 |[340. Longest substring with K distinct characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/sliding_window/longest_substring_with_k_unique_char.py)
 |[239. Maximum Subarray of size K](https://leetcode.com/problems/sliding-window-maximum/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/sliding_window/maximum-subarray_size_k_str.py)
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/sliding_window/smallest_subarray_with_given_sum.py)
+|[1. Two Sum](https://leetcode.com/problems/two-sum/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/two_indices_to_sum.py)
