@@ -49,7 +49,17 @@ def main():
   print(f"Test case one:  {head}")
 
   print(f"Duplicates deleted: {Solution().deleteDuplicates(head)}")
+ 
+  head = ListNode(5)
+  head.next = ListNode(3)
+  head.next.next = ListNode(2)
+  head.next.next.next = ListNode(2)
+  head.next.next.next.next = ListNode(5)
+  head.next.next.next.next.next = ListNode(5)
+  head.next.next.next.next.next.next = ListNode(5)
 
+  print(f"Test case two:  {head}")
 
-
+  print(f"Duplicates deleted: {Solution().deleteDuplicates(head)}")
+  
 main()
