@@ -47,6 +47,7 @@ The single most important aspect of preparing for technical interviews is to sol
 |[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/max_diff_node_and_ancestor.py)
 |[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/squares_of_a_sorted_array.py)
 |[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/fast_slow_pointers/palindrome_ll.py)
+|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/remove_duplicates_from_sorted_ll.py)
 |[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/sliding_window/find_all_anagrams_in_str.py)
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/14_patterns/sliding_window/maximum_subarray.py)
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/summary_ranges.py)
@@ -62,4 +63,4 @@ The single most important aspect of preparing for technical interviews is to sol
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/two_indices_to_sum.py)
 |[Increasing Triplet Subsequence](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3570/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/increasing_triplet_sub.py)
 |[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/implement_queue_using_stacks.py)
-
+|[322. Coin Change](https://github.com/nezlobnaya/leetcode_solutions/blob/main/coin_change.py)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/coin_change.py)
