@@ -53,4 +53,13 @@ class Solution:
                 return False
             node = node.next
         return True
-                
+
+class Solution:
+    def isPalindrome(self, head: ListNode) -> bool:
+        node = head
+        stack = []
+        while node:
+            stack.append(node.val)
+            node = node.next
+        return stack == stack[::-1]
+                      
