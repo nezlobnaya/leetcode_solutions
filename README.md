@@ -65,3 +65,4 @@ The single most important aspect of preparing for technical interviews is to sol
 |[Increasing Triplet Subsequence](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3570/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/increasing_triplet_sub.py)
 |[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/implement_queue_using_stacks.py)
 |[322. Coin Change](https://github.com/nezlobnaya/leetcode_solutions/blob/main/coin_change.py)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/coin_change.py)
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Solution.py](https://github.com/nezlobnaya/leetcode_solutions/blob/main/find_the_duplicate_num.py)
