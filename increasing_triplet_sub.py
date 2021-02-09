@@ -7,7 +7,7 @@ If no such indices exists, return false.
 """
 
 # O(n) time complexity and O(1) space complexity
-
+from typing import List
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
         
