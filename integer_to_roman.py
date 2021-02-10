@@ -16,5 +16,9 @@ print(Solution().intToRoman(num)) # MCCXLV
 
 num  = 1248         
 print(Solution().intToRoman(num)) # MCCXLVIII
+
+num = 3888
+print(Solution().intToRoman(num)) # MMMDCCCLXXXVIII
 # O(1) time
 # O(1) space
+
