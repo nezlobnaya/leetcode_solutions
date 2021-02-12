@@ -27,23 +27,35 @@
 # Input: N = 3, trust = [[1,3],[2,3],[3,1]]
 # Output: -1
 
-
+from collections import defaultdict
 def findJudge(N,trust):
-    #edge case
     if N == 1:
-        return 1
+            return 1
+    hashmap=defaultdict(int)
+    
+    for a, b in trust:
+        hashmap[a] -=1
+        hashmap[b] +=1
 
-    trusted =  [0] * (N+1)
-    for pair_a, pair_b in trust:           
-        trusted[pair_a] -= 1        
-        trusted[pair_b] += 1
-
-    for mole in range(1, N+1):
-
-        if trusted[mole] == N-1:
-            return mole
-
+    for i in hashmap.keys():
+        if hashmap[i] == N-1:
+            return i
     return -1
+    #edge case
+    # if N == 1:
+    #     return 1
+
+    # trusted =  [0] * (N+1)
+    # for pair_a, pair_b in trust:           
+    #     trusted[pair_a] -= 1        
+    #     trusted[pair_b] += 1
+
+    # for mole in range(1, N+1):
+
+    #     if trusted[mole] == N-1:
+    #         return mole
+
+    # return -1
 
 if __name__ == '__main__':
     # Use the main function here to test out the implementation
