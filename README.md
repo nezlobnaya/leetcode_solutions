@@ -1,6 +1,6 @@
 # Leetcode-Solutions
 
-Solutions to [Leetcode(https://www.leetcode.com) problems implemented in Python 3.
+Solutions to [Leetcode](https://www.leetcode.com) problems implemented in Python 3.
 
 # How to solve problems on Leetcode to prepare for technical interviews
 
