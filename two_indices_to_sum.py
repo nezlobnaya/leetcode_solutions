@@ -10,7 +10,6 @@ class Solution:
         #     else:
         #         hash[nums[i]] = i
         # return None
- 
         hash = {}
         for i,num in enumerate(nums):
             element = target - num
