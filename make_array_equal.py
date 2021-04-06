@@ -7,6 +7,6 @@ class Solution:
         target = sum(arr)//n
         count=0
         for i in range(n):
-            diff = abs(arr[i]-target)
-            count+=diff
+            count+=abs(arr[i]-target)
+
         return count//2
